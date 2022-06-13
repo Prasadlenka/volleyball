@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>volleyball australia</title>
+        <link rel="stylesheet"href="style1.css">
+    
+    </head>
+    <body>
+        <header>
+            <img src="image1.png"width="100"height="100">
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="VOLLETBALL.HTML">Home</a></li>
+
+                <li id="dropdown">
+
+                <a href="#"id="dropbtn">Teams </a>
+                    <div id="dropdown-content">
+                        <a href="mens.html"></a>
+                        <a href="womes.html"></a>
+                    </div>
+                </li>
+                <li><a href="volleyfest.html">Volleyfest</a></li>
+                <li><a href="contactus.html">Contact </a></li>
+        
+            </ul>
+        </nav>
+
+         <article>
+             <h2>womens volleyball</h2>
+             
+             
+                <p id="pic"> <img src="womens.jpg"alt="game of volleyball"width="500"></p>
+                
+             
+             
+                Volleyball Australia is pleased to confirm the women’s indoor volleyball team for the Asian
+                 Volleyball Confederation (AVC) U18 Women’s Volleyball Championships. 
+                 Twelve athletes have been selected as part of the team who are competing in Nakhon Pathom,
+                  Thailand, from June 6-13. Volleyball Australia National Pathways Manager Paul Smith said:
+                   “I’d like to congratulate all 12 junior athletes on their selection for the AVC U18 Women’s Volleyball Championships.
+                    “This group have had limited access to domestic and international training and playing opportunities over the past two years, 
+                    so this tour will be a really valuable learning experience for them,” he said. Western Australia’s Caitlin Whincup has been named as part of the 12-strong team,
+                     an honour which is not taken lightly.
+
+             <p>  “I am very proud to represent Australia – we’ve lost some international opportunities due to COVID, 
+                so I’m proud and very glad I worked hard to now be able to experience it,” Whincup said.
+                 “We’ve had a zoom introduction meeting but for many of us we’ll be meeting in Thailand.
+                  “In saying that, we’ve got a very fun-loving group and we’re all looking forward to the opportunity,
+                  ” she said. Dual Olympian and former Volleyroos captain David Beard said he is looking forward to coaching his first international tournament since joining the Australian Volleyball Academy coaching team in late 2021.
+                   “Representing your country as a player or coach is a huge privilege and honour,” Beard said.</p>
+                
+                “I have been lucky enough to have had many appearances as a player for Australia, and am now really looking forward to my first time as a coach. To say that I’m a little excited is a real understatement!
+                 “With a great group of coaches and girls heading to Thailand, I know that we will do our absolute best to play good volleyball, to have a lot of fun, and to make everyone proud back home.” Ella Schabort was initially selected as captain of the team,
+                  but after sustaining a concussion at the recent senior training camp, which she is currently being treated for, she won’t be able to travel with the team to Thailand. The championship serves as the Asian qualification tournament for the 2023 FIVB Volleyball Girls’ U19 World Championship, 
+                  with 11 teams in total vying for top honours and four berths up for grabs for the biennial world meet as AVC representatives. Australia will play in Pool A against hosts Thailand, Korea, Iran, and Uzbekistan in Pool A, with Japan, China, Chinese Taipei, Kazakhstan, India and Philippines in Pool B.
+              
+              
+              
+             
+         </article>
+
+         <footer>
+             copyright &copy;2017 volleyball australia    
+         </footer>
+
+    </body>
+
+</html>
